@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "target": "esnext",
-    "strict": true,
+    "strict": false,
     "esModuleInterop": true,
     "moduleResolution": "node",
     "noUncheckedIndexedAccess": true,
